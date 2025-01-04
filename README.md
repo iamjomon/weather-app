@@ -1,9 +1,9 @@
 ## *Weather App*
 
-   <img src="https://github.com/Jomonh/Weather-App/blob/main/assets/preview.png" alt="Project Screenshot" width="500"/>
+   <img src="https://github.com/Jomon-J/Weather-App/blob/main/assets/preview.png" alt="Project Screenshot" width="500"/>
 
 ### 🔗 *Demo Site*
-   - Check out the live demo of this project: [Demo Site](https://Jomonh.github.io/Weather-App)
+   - Check out the live demo of this project: [Demo Site](https://Jomon-J.github.io/Weather-App)
    
 ###  *Key Features*
    - Responsive Design
@@ -25,7 +25,7 @@ To get started with this project, you have two options:
    - Use the following link to clone the repository to your local machine:
     
      ```bash
-     git clone https://github.com/Jomonh/Weather-App.git
+     git clone https://github.com/Jomon-J/Weather-App.git
 
    
    - Once cloned, navigate to the project directory:
